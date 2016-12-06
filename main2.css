@@ -1,0 +1,29 @@
+
+body{
+    background:
+     url("http://www.sony.jp/ichigan/community/wallpaper/images/photocon1612/02_1920_1280.jpg");
+}
+
+.all{
+    width: 80%;
+    margin: 0 px auto;
+}
+
+
+.col{
+    width=30%;
+    height: 300px;
+    background: navy;
+    display: inline-block;
+    margin: 30px 5px;
+    
+}
+
+.bottom{
+    
+    background: white;
+    width: 100%
+    
+}
+
+
